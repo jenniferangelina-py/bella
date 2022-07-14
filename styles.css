@@ -39,6 +39,7 @@ header {
 
 .search {
   margin-left: auto;
-  filter: grayscale(150%);
+  margin-right: 25px;
+  filter: grayscale(200%);
   width: 80px;
 }
