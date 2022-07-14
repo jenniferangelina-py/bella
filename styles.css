@@ -66,3 +66,7 @@ span, pre {
 .block {
   display: block;
 }
+
+pre {
+  font-size: 13.5px;
+}
