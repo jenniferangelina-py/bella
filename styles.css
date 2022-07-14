@@ -48,8 +48,8 @@ header {
   display: inline;
 }
 
-span {
-  margin-left: 25px;
+span, pre {
+  margin-left: 20px;
   color: white;
   font-family: Arial;
 }
