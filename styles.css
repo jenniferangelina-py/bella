@@ -61,3 +61,7 @@ p {
 .grid {
   grid: auto / 3fr 1fr 1fr;
 }
+
+.inline-block {
+  display: inline-block;
+}
