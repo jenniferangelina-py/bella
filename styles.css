@@ -56,7 +56,7 @@ span, pre {
 
 .grid {
   display: grid;
-  grid: auto / 550px 150px 1fr;
+  grid: auto / 525px 150px 1fr;
   gap: 125px;
 }
 
@@ -82,7 +82,14 @@ span {
   width: 25px;
   text-align: center;
   text-decoration: none;
+}
+
+.fa-facebook {
   color: #B1C2D2;
   background: #1A2033;
 }
 
+.fa-twitter {
+  color: #B1C2D2;
+  background: #1A2033;
+}
