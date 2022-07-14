@@ -55,10 +55,7 @@ span {
 }
 
 .grid {
-  grid: auto / 3fr 1fr 1fr;
-  width: 500px;
-  background: red;
-  height: 500px;
+  grid: auto / 600px 1fr 1fr;
 }
 
 .inline-block {
