@@ -68,6 +68,10 @@ p {
   padding-left: 25px;
 }
 
+.margin2 {
+  padding-left: 150px;
+}
+
 .gray {
   color: #92969D;
   font-weight: bold;
