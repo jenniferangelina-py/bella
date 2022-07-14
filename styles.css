@@ -51,3 +51,7 @@ p {
 .inline {
   display: inline;
 }
+
+.footer {
+  font-family: Arial;
+}
