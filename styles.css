@@ -38,7 +38,7 @@ header {
 }
 
 .search {
-  justify-self: flex-end;
-  filter: grayscale(100%);
+  margin-left: auto;
+  filter: brightness(50%);
   width: 80px;
 }
