@@ -13,3 +13,7 @@ header {
 img {
   height: 100px;
 }
+
+.inline {
+  display: inline;
+}
