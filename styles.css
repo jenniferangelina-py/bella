@@ -56,8 +56,8 @@ span, pre {
 
 .grid {
   display: grid;
-  grid: auto / 575px 150px 1fr;
-  gap: 75px;
+  grid: auto / 600px 150px 1fr;
+  gap: 50px;
 }
 
 .inline-block {
@@ -79,7 +79,7 @@ span {
 .fa {
   padding: 20px;
   font-size: 30px;
-  width: 50px;
+  width: 10px;
   text-align: center;
   text-decoration: none;
 }
