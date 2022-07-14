@@ -67,3 +67,8 @@ p {
 .margin1 {
   padding-left: 25px;
 }
+
+.gray {
+  color: #92969D;
+  font-weight: 650px;
+}
