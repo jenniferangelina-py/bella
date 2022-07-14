@@ -75,3 +75,14 @@ pre {
 span {
   font-size: 13.75
 }
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+  color: #B1C2D2;
+  background: #1A2033;
+}
+
