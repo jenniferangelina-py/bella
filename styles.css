@@ -39,6 +39,6 @@ header {
 
 .search {
   margin-left: auto;
-  filter: brightness(50%);
+  filter: brightness(150%);
   width: 80px;
 }
