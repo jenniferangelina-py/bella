@@ -50,6 +50,8 @@ header {
 
 span {
   margin-left: 25px;
+  color: white;
+  font-family: Arial;
 }
 
 .grid {
