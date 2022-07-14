@@ -40,5 +40,5 @@ header {
 .search {
   justify-self: flex-end;
   filter: grayscale(100%);
-  width: 80x;
+  width: 80px;
 }
