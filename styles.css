@@ -28,6 +28,7 @@ img {
   font-family: Helvetica;
   border: none;
   border-radius: 10px;
-  font-size: 65px;
+  font-size: 35px;
   color: white;
+  padding: 20px;
 }
