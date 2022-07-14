@@ -36,3 +36,8 @@ img {
   margin-left: 40px;
   letter-spacing: 0.5px;
 }
+
+.search {
+  justify-self: flex-end;
+  filter: grayscale(100%);
+}
