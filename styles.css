@@ -47,3 +47,11 @@ header {
 .inline {
   display: inline;
 }
+
+span {
+  margin-left: 25px;
+}
+
+.grid {
+  grid: auto / 3fr 1fr 1fr;
+}
