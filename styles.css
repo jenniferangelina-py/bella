@@ -45,7 +45,7 @@ header {
 }
 
 p {
-  color: white;
+  color: #A4A7AE;
 }
 
 .inline {
@@ -70,5 +70,5 @@ p {
 
 .gray {
   color: #92969D;
-  font-weight: 650px;
+  font-weight: bold;
 }
