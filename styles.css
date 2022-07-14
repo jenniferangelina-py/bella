@@ -55,7 +55,8 @@ span {
 }
 
 .grid {
-  grid: auto / 550px 1fr 1fr;
+  display: grid;
+  grid: auto / 600px 1fr 1fr;
 }
 
 .inline-block {
