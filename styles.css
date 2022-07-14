@@ -42,3 +42,11 @@ header {
   margin-right: 25px;
   width: 75px;
 }
+
+p {
+  color: white;
+}
+
+.inline {
+  display: inline;
+}
