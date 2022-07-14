@@ -11,7 +11,7 @@ header {
 }
 
 img {
-  height: 100px;
+  height: 80px;
 }
 
 .ham {
@@ -33,4 +33,5 @@ img {
   padding: 12.5px;
   font-weight: bold;
   margin-left: 50px;
+  letter-spacing: 0.5px;
 }
