@@ -17,3 +17,9 @@ img {
 .inline {
   display: inline;
 }
+
+.dropdown {
+  color: #9FA2A9;
+  font-size: 50px;
+  padding-right: 50px;
+}
