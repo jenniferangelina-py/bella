@@ -76,3 +76,22 @@ p {
   color: #92969D;
   font-weight: bold;
 }
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-facebook {
+  background: #1A2033;
+  color: #B1C2D2;
+}
+
+.fa-twitter {
+  background: #1A2033;
+  color: #B1C2D2;
+}
