@@ -57,6 +57,7 @@ span, pre {
 .grid {
   display: grid;
   grid: auto / 550px 150px 1fr;
+  gap: 125px;
 }
 
 .inline-block {
