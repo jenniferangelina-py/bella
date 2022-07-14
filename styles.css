@@ -43,3 +43,7 @@ header {
   margin-right: 25px;
   width: 75px;
 }
+
+.inline {
+  display: inline;
+}
