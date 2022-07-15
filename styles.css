@@ -81,6 +81,7 @@ span {
   height: 50px;
   width: 50px;
   text-align: center;
+  vertical-align: 25px;
   text-decoration: none;
 
 }.fa-facebook {
@@ -93,9 +94,4 @@ span {
   background: #192133;
   color: #B0C2D2;
   margin-left: 1px;
-}
-
-.center {
-  display: flex;
-  align-items: center;
 }
