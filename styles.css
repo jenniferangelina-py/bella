@@ -78,11 +78,10 @@ span {
 
 .fa {
   font-size: 30px;
-  width: 25px;
-  height: 25px;
+  padding: 25px;
   text-align: center;
   text-decoration: none;
-  margin-left: 3px;
+  margin-left: 10px;
 
 }.fa-facebook {
   background: #192133;
