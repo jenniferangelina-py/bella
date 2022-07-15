@@ -50,8 +50,6 @@ header {
 
 span, pre {
   margin-left: 13.5px;
-  color: white;
-  font-family: Arial;
 }
 
 .grid {
@@ -75,6 +73,7 @@ pre {
 span {
   font-size: 17.5px;
   color: #B2B5BB;
+  font-family: Arial;
 }
 
 .small {
