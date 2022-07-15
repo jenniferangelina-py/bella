@@ -78,7 +78,8 @@ span {
 
 .fa {
   font-size: 60px;
-  padding: 2px 4px;
+  height: 15px;
+  width: 15px;
   text-align: center;
   text-decoration: none;
 
