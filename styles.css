@@ -113,8 +113,10 @@ span {
 }
 
 .divdiv {
-  height: 1600px;
-  width: 800px;
   background: red;
-  border-radius: 10px;
+}
+
+.grid2 {
+  display: grid;
+  grid: 1600px / repeat(5, 800px);
 }
