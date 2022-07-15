@@ -55,7 +55,7 @@ span, pre {
 .grid {
   display: grid;
   grid: auto / 600px 150px 1fr;
-  gap: 50px;
+  gap: 35px;
 }
 
 .inline-block {
@@ -94,7 +94,7 @@ span {
   margin-top: 5px;
 }
 
-}.fa-facebook {
+.fa-facebook {
   background: #192133;
   color: #B0C2D2;
   margin-left: 15px;
