@@ -78,17 +78,18 @@ span {
 
 .fa {
   font-size: 30px;
-  padding: 25px;
+  padding: 17.5px;
   text-align: center;
   text-decoration: none;
-  margin-left: 10px;
 
 }.fa-facebook {
   background: #192133;
   color: #B0C2D2;
+  margin-left: 15px;
 }
 
 .fa-twitter {
   background: #192133;
   color: #B0C2D2;
+  margin-left: 5px;
 }
