@@ -54,7 +54,7 @@ span, pre {
 
 .grid {
   display: grid;
-  grid: auto / 600px 150px 1fr;
+  grid: auto / 570px 150px 1fr;
   gap: 35px;
 }
 
@@ -67,13 +67,13 @@ span, pre {
 }
 
 pre {
-  font-size: 13.5px;
+  font-size: 13px;
   color: #B2B5BB;
   font-family: Arial;
 }
 
 span {
-  font-size: 15.5px;
+  font-size: 16px;
   color: #B2B5BB;
   font-family: Arial;
 }
