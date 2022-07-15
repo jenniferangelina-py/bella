@@ -75,21 +75,3 @@ pre {
 span {
   font-size: 17.5px;
 }
-
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-}
-
-.fa-facebook {
-  color: red;
-  background-color: yellow;
-}
-
-.fa-twitter {
-  color: #B1C2D2;
-  background: #1A2033;
-}
