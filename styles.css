@@ -91,6 +91,8 @@ span {
   text-align: center;
   text-decoration: none;
   border-radius: 2.5px;
+  margin-top: 5px;
+}
 
 }.fa-facebook {
   background: #192133;
