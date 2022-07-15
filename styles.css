@@ -49,7 +49,7 @@ header {
 }
 
 span, pre {
-  margin-left: 15px;
+  margin-left: 25px;
 }
 
 .grid {
@@ -109,4 +109,5 @@ span {
 
 .small2 {
   width: 130px;
+  margin-left: 1px;
 }
