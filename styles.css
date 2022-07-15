@@ -81,15 +81,16 @@ span {
   width: 25px;
   height: 25px;
   text-align: center;
+  vertical-align: center;
   text-decoration: none;
   margin: 10px 5px;
 
 }.fa-facebook {
-  background: #3B5998;
-  color: white;
+  background: #192133;
+  color: #B0C2D2;
 }
 
 .fa-twitter {
-  background: #55ACEE;
-  color: white;
+  background: #192133;
+  color: #B0C2D2;
 }
