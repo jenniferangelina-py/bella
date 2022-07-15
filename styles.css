@@ -118,5 +118,6 @@ span {
 
 .grid2 {
   display: grid;
-  grid: 1600px / repeat(5, 800px);
+  grid: 600px / repeat(5, 300px);
+  gap: 25px;
 }
