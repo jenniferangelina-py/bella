@@ -126,3 +126,7 @@ span {
   grid: 200px / repeat(5, 150px);
   gap: 10px;
 }
+
+.mar {
+  margin-left: 10px;
+}
