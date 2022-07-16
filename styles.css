@@ -116,13 +116,13 @@ span {
 }
 
 .divdiv {
-  background: blue;
+  background: yellow;
   border-radius: 5px;
 }
 
 .grid2 {
   display: grid;
-  grid: 195px / repeat(5, 144.5px);
+  grid: 195px / repeat(5, 145px);
   gap: 10px;
   margin-left: 45px;
 }
