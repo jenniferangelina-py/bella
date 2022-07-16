@@ -59,7 +59,7 @@ span {
 .grid {
   display: grid;
   grid: auto / 540px 150px 1fr;
-  gap: 26px;
+  gap: 22px;
 }
 
 .inline-block {
@@ -87,6 +87,7 @@ span {
   font-size: 14px;
   font-weight: bold;
   color: #999BA0;
+  margin-left: 4px;
 }
 
 .fa {
@@ -116,7 +117,7 @@ span {
 }
 
 .divdiv {
-  background: red;
+  background: yellow;
   /* #192133 */
   border-radius: 5px;
 }
@@ -126,8 +127,4 @@ span {
   grid: 195px / repeat(6, 146.25px);
   gap: 10px;
   margin-left: 46px;
-}
-
-.mar {
-  margin-left: -10px;
 }
