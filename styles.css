@@ -119,7 +119,7 @@ span {
 
 .grid2 {
   display: grid;
-  grid: auto / repeat(5, 150px);
+  grid: 300px / repeat(5, 150px);
   gap: 10px;
   margin: auto 50px;
 }
