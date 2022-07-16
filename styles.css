@@ -116,15 +116,15 @@ span {
 }
 
 .divdiv {
-  background: green;
+  background: purple;
   border-radius: 5px;
 }
 
 .grid2 {
   display: grid;
-  grid: 198px / repeat(5, 145px);
+  grid: 198px / repeat(5, 140px);
   gap: 10px;
-  margin-left: 44px;
+  margin-left: 45px;
 }
 
 .mar {
