@@ -48,7 +48,7 @@ header {
   display: inline;
 }
 
-span, pre {
+.span1, .pre1 {
   margin-left: 25px;
 }
 
