@@ -48,13 +48,17 @@ header {
   display: inline;
 }
 
-.span1, .pre1 {
+span {
+  margin-left: 20px;
+}
+
+.span1, pre {
   margin-left: 25px;
 }
 
 .grid {
   display: grid;
-  grid: auto / 560px 150px 1fr;
+  grid: auto / 540px 150px 1fr;
   gap: 30px;
 }
 
