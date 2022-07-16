@@ -59,7 +59,7 @@ span {
 .grid {
   display: grid;
   grid: auto / 540px 150px 1fr;
-  gap: 29px;
+  gap: 26px;
 }
 
 .inline-block {
@@ -122,8 +122,9 @@ span {
 
 .grid2 {
   display: grid;
-  grid: 200px / repeat(5, 150px);
+  grid: 198px / repeat(5, 150px);
   gap: 10px;
+  margin-left: 20px;
 }
 
 .mar {
