@@ -116,7 +116,7 @@ span {
 }
 
 .divdiv {
-  background: yellow;
+  background: green;
   /* #192133 */
   border-radius: 5px;
 }
@@ -129,5 +129,5 @@ span {
 }
 
 .mar {
-  margin-left: -10px;
+  margin-left: -8px;
 }
