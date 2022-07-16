@@ -122,9 +122,9 @@ span {
 
 .grid2 {
   display: grid;
-  grid: 198px / repeat(5, 150px);
+  grid: 198px / repeat(5, 140px);
   gap: 10px;
-  margin-left: 50px;
+  margin-left: 55px;
 }
 
 .mar {
