@@ -121,5 +121,5 @@ span {
   display: grid;
   grid: auto / repeat(5, 150px);
   gap: 10px;
-  padding: auto 50px;
+  margin: auto 50px;
 }
