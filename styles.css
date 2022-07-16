@@ -124,7 +124,7 @@ span {
   display: grid;
   grid: 198px / repeat(5, 150px);
   gap: 10px;
-  margin-left: 100px;
+  margin-left: 50px;
 }
 
 .mar {
