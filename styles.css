@@ -59,7 +59,7 @@ span {
 .grid {
   display: grid;
   grid: auto / 540px 150px 1fr;
-  gap: 30.5px;
+  gap: 30px;
 }
 
 .inline-block {
