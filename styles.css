@@ -116,7 +116,7 @@ span {
 }
 
 .divdiv {
-  background: green;
+  background: silver;
   /* #192133 */
   border-radius: 5px;
 }
@@ -126,7 +126,7 @@ span {
   grid: 195px / repeat(20, 146.25px);
   gap: 10.2px;
   margin-left: 46px;
-  overflow: auto;
+  overflow-x: scroll;
   white-space: nowrap;
   margin-top: 15px;
   -ms-overflow-style: none;
