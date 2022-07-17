@@ -116,14 +116,14 @@ span {
 }
 
 .divdiv {
-  background: yellow;
+  background: white;
   /* #192133 */
   border-radius: 5px;
 }
 
 .grid2 {
   display: grid;
-  grid: 195px / repeat(6, 146.25px);
+  grid: 195px / repeat(20, 146.25px);
   gap: 10.2px;
   margin-left: 46px;
   overflow: auto;
