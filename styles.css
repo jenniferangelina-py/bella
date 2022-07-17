@@ -116,7 +116,7 @@ span {
 }
 
 .divdiv {
-  background: violet;
+  background: skyblue;
   /* #192133 */
   border-radius: 5px;
 }
@@ -128,6 +128,7 @@ span {
   margin-left: 46px;
   overflow: auto;
   white-space: nowrap;
+  margin-top: 10px;
 }
 
 .mar {
@@ -138,5 +139,4 @@ span {
   color: white;
   margin-left: 46px;
   font-size: 20px;
-  margin-bottom: 40px;
 }
