@@ -129,11 +129,6 @@ span {
   overflow-x: scroll;
   white-space: nowrap;
   margin-top: 15px;
-  -ms-overflow-style: none;
-}
-
-.grid2::-webkit-scrollbar {
-  display: none;
 }
 
 .mar {
