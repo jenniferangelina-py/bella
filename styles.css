@@ -116,7 +116,7 @@ span {
 }
 
 .divdiv {
-  background: skyblue;
+  background: orange;
   /* #192133 */
   border-radius: 5px;
 }
@@ -138,5 +138,6 @@ span {
 .pilihan {
   color: white;
   margin-left: 46px;
-  font-size: 20px;
+  font-size: 19px;
+  font-weight: bold;
 }
