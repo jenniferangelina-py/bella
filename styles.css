@@ -116,7 +116,7 @@ span {
 }
 
 .divdiv {
-  background: orange;
+  background: blue;
   /* #192133 */
   border-radius: 5px;
 }
@@ -139,5 +139,5 @@ span {
   color: white;
   margin-left: 46px;
   font-size: 19px;
-  font-weight: bold;
+  font-weight: 600px;
 }
