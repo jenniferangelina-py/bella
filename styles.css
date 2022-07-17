@@ -116,7 +116,7 @@ span {
 }
 
 .divdiv {
-  background: yellow;
+  background: violet;
   /* #192133 */
   border-radius: 5px;
 }
@@ -138,5 +138,5 @@ span {
   color: white;
   margin-left: 46px;
   font-size: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 40px;
 }
