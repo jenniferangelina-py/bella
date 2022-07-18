@@ -147,12 +147,15 @@ footer {
 
 main {
   display: grid;
-  grid: 450px / repeat(5, 725px);
+  grid: 450px / repeat(5, 800px);
   overflow-x: scroll;
   white-space: nowrap;
   gap: 10px;
+  margin-left: 46px;
+  margin-bottom: 15px;
 }
 
 .div1 {
-  background: blue;
+  background: pink;
+  border-radius: 5px;
 }
