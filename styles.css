@@ -116,8 +116,7 @@ span {
 }
 
 .divdiv {
-  background: white;
-  /* #192133 */
+  background: #192133;
   border-radius: 5px;
 }
 
@@ -151,8 +150,9 @@ main {
   grid: 450px / repeat(5, 725px);
   overflow-x: scroll;
   white-space: nowrap;
+  gap: 10px;
 }
 
 .div1 {
-  background: red;
+  background: blue;
 }
