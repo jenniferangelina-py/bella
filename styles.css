@@ -116,7 +116,7 @@ span {
 }
 
 .divdiv {
-  background: gold;
+  background: white;
   /* #192133 */
   border-radius: 5px;
 }
@@ -154,5 +154,5 @@ main {
 }
 
 .div1 {
-  color: red;
+  background: red;
 }
