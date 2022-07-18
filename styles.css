@@ -116,7 +116,7 @@ span {
 }
 
 .divdiv {
-  background: silver;
+  background: gold;
   /* #192133 */
   border-radius: 5px;
 }
@@ -144,4 +144,15 @@ span {
 
 footer {
   margin-top: 50px;
+}
+
+main {
+  display: grid;
+  grid: 450px / repeat(5, 725px);
+  overflow-x: scroll;
+  white-space: nowrap;
+}
+
+.div1 {
+  color: red;
 }
