@@ -19,10 +19,10 @@ header {
 .ham {
   color: #9FA2A9;
   font-size: 65px;
-  margin: auto 50px auto 25px;
+  margin: auto 50px auto 30px;
   border: none;
   background-color: #111926;
-  font-weight: 650px;
+  font-weight: bold;
 }
 
 .langganan {
@@ -147,17 +147,17 @@ footer {
 
 main {
   display: grid;
-  grid: 525px / repeat(5, 950px);
+  grid: 535px / repeat(5, 940px);
   overflow-x: scroll;
   white-space: nowrap;
   gap: 10px;
   margin-left: 20px;
   margin-bottom: 15px;
-  margin-top: 10px;
+  margin-top: 4px;
   
 }
 
 .div1 {
-  background: blue;
+  background: yellow;
   border-radius: 5px;
 }
