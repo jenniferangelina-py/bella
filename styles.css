@@ -12,17 +12,17 @@ header {
 }
 
 .logo {
-  height: 85px;
+  height: 90px;
   margin-top: -10px;
 }
 
 .ham {
   color: #9FA2A9;
   font-size: 70px;
-  margin: auto 50px auto 30px;
+  margin: auto 50px auto 31px;
   border: none;
   background-color: #111926;
-  font-weight: 600;
+  font-weight: 650;
 }
 
 .langganan {
@@ -30,7 +30,7 @@ header {
   font-family: Helvetica;
   border: none;
   border-radius: 10px;
-  font-size: 25px;
+  font-size: 30px;
   color: white;
   padding: 12.5px;
   font-weight: bold;
@@ -40,7 +40,7 @@ header {
 
 .search {
   margin-left: auto;
-  margin-right: 45px;
+  margin-right: 50px;
   width: 70px;
 }
 
