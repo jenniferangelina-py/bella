@@ -22,7 +22,7 @@ header {
   margin: auto 50px auto 31px;
   border: none;
   background-color: #111926;
-  font-weight: 630;
+  font-weight: 550;
 }
 
 .langganan {
@@ -32,7 +32,7 @@ header {
   border-radius: 10px;
   font-size: 25px;
   color: white;
-  padding: 12.5px;
+  padding: 12.5px 15px;
   font-weight: bold;
   margin-left: 30px;
   letter-spacing: 0.5px;
@@ -102,7 +102,7 @@ span {
 .fa-facebook {
   background: #192133;
   color: #B0C2D2;
-  margin-left: 20px;
+  margin-left: 22.5px;
 }
 
 .fa-twitter {
@@ -158,10 +158,10 @@ main {
 }
 
 .div1 {
-  background: pink;
+  background: yellow;
   border-radius: 15px;
 }
 
 .small2 {
-  margin-left: -5px;
+  margin-left: -2.5px;
 }
