@@ -161,3 +161,7 @@ main {
   background: pink;
   border-radius: 15px;
 }
+
+.small2 {
+  margin-left: -5px;
+}
