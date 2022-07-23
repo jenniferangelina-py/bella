@@ -22,7 +22,7 @@ header {
   margin: auto 52px auto 25px;
   border: none;
   background-color: #111926;
-  font-weight: 600;
+  font-weight: 610;
 }
 
 .langganan {
@@ -158,7 +158,7 @@ main {
 }
 
 .div1 {
-  background: pink;
+  background: #192133;
   border-radius: 15px;
 }
 
