@@ -18,11 +18,11 @@ header {
 
 .ham {
   color: #9FA2A9;
-  font-size: 75px;
+  font-size: 70px;
   margin: auto 50px auto 25px;
   border: none;
   background-color: #111926;
-  font-weight: 620;
+  font-weight: 610;
 }
 
 .langganan {
@@ -158,7 +158,7 @@ main {
 }
 
 .div1 {
-  background: silver;
+  background: pink;
   border-radius: 15px;
 }
 
