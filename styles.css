@@ -13,16 +13,16 @@ header {
 
 .logo {
   height: 90px;
-  margin-top: -8px;
+  margin-top: -10px;
 }
 
 .ham {
   color: #9FA2A9;
   font-size: 70px;
-  margin: auto 52px auto 25px;
+  margin: auto 55px auto 25px;
   border: none;
   background-color: #111926;
-  font-weight: 602.5;
+  font-weight: 600;
 }
 
 .langganan {
