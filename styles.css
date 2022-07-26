@@ -148,7 +148,7 @@ footer {
 
 main {
   display: grid;
-  grid: 500px / repeat(5, 927px);
+  grid: 450px / repeat(5, 927px);
   overflow-x: scroll;
   white-space: nowrap;
   gap: 16px;
@@ -159,9 +159,9 @@ main {
 }
 
 .div1 {
-  background: yellow;
+  background: pink;
   /* #192133 */
-  border-radius: 15px;
+  border-radius: 10px;
 }
 
 .small2 {
