@@ -149,13 +149,12 @@ footer {
 
 main {
   display: grid;
-  grid: 440px / repeat(5, 927px);
+  grid: 445px / repeat(5, 915px);
   overflow-x: scroll;
   white-space: nowrap;
-  gap: 16px;
-  margin-left: 27px;
+  gap: 46px;
+  margin-left: 46px;
   margin-top: 2px;
-  
 }
 
 .div1 {
