@@ -139,7 +139,7 @@ span {
   color: white;
   margin-left: 46px;
   font-size: 20px;
-  font-weight: 680;
+  font-weight: 600;
 }
 
 footer {
@@ -148,7 +148,7 @@ footer {
 
 main {
   display: grid;
-  grid: 450px / repeat(5, 927px);
+  grid: 440px / repeat(5, 927px);
   overflow-x: scroll;
   white-space: nowrap;
   gap: 16px;
